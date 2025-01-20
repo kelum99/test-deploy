@@ -12,6 +12,6 @@ import glsl from 'vite-plugin-glsl';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Sulakshi-Portfolio/",
-  plugins: [react(), glsl()],
+  base: "/test-deploy/",
+  plugins: [react()],
 })
